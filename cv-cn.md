@@ -22,7 +22,7 @@ React · TypeScript · Next.js · FastAPI · PostgreSQL · C# · SQL · Electron
 | 项目 | 链接 | 简介 | 技术栈 |
 | --- | --- | --- | --- |
 | IdeaSense AI — 全栈 AI 工作流产品 | [线上](https://www.ideasenseai.com/en) | AI 工作流产品：分阶段 intake、结构化抽取、评分、SSE 流式输出、PostgreSQL 项目状态、管理审核和报告导出。 | Next.js、React、TypeScript、FastAPI、PostgreSQL、JWT、SSE、Vercel、Render |
-| Locus — 本地优先 coding-agent 桌面工作台 | [GitHub](https://github.com/lupanpan1030/agent-code-for-me) | 本地优先 coding-agent 桌面工作台。在 `21st-dev/1code`（Apache-2.0）的 fork 上重做了 local-only、agent-guard、provider/runtime、MCP 等子系统；AI 协作开发，目前处于发布前安全审查阶段。 | Electron、React、TypeScript、tRPC、Drizzle、better-sqlite3、electron-builder、GitHub Releases |
+| Locus — 本地优先 coding-agent 桌面工作台 | [GitHub](https://github.com/lupanpan1030/agent-code-for-me) | 本地优先 coding-agent 桌面工作台。在 [21st-dev/1code](https://github.com/21st-dev/1code)（Apache-2.0）的 fork 上重做了 local-only、agent-guard、provider/runtime、MCP 等子系统；AI 协作开发，目前处于发布前安全审查阶段。 | Electron、React、TypeScript、tRPC、Drizzle、better-sqlite3、electron-builder、GitHub Releases |
 
 ## 精选软件项目
 

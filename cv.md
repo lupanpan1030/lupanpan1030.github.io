@@ -22,7 +22,7 @@ Auckland-based graduate full-stack developer with UoA MIT First Class Honours, r
 | Project | Link | Description | Tech Stack |
 | --- | --- | --- | --- |
 | IdeaSense AI — Full-stack AI Workflow Product | [Live](https://www.ideasenseai.com/en) | AI workflow product: staged intake, structured extraction, scoring, SSE streaming, PostgreSQL project state, admin review and report export. | Next.js, React, TypeScript, FastAPI, PostgreSQL, JWT, SSE, Vercel, Render |
-| Locus — Local-first Coding-agent Desktop Workbench | [GitHub](https://github.com/lupanpan1030/agent-code-for-me) | Local-first coding-agent desktop workbench. Re-engineered a fork of `21st-dev/1code` (Apache-2.0) into local-only, agent-guard, provider/runtime and MCP subsystems; AI-assisted build, now in pre-release security review. | Electron, React, TypeScript, tRPC, Drizzle, better-sqlite3, electron-builder, GitHub Releases |
+| Locus — Local-first Coding-agent Desktop Workbench | [GitHub](https://github.com/lupanpan1030/agent-code-for-me) | Local-first coding-agent desktop workbench. Re-engineered a fork of [21st-dev/1code](https://github.com/21st-dev/1code) (Apache-2.0) into local-only, agent-guard, provider/runtime and MCP subsystems; AI-assisted build, now in pre-release security review. | Electron, React, TypeScript, tRPC, Drizzle, better-sqlite3, electron-builder, GitHub Releases |
 
 ## Selected Software Projects
 
