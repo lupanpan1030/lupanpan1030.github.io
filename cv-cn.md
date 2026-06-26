@@ -1,64 +1,57 @@
 # 卢郴 / Ethan Chen Lu
 
-**全栈开发 | AI 工作流系统 | 医疗信息化**  
-新西兰奥克兰  
-[邮箱](mailto:ethanclu.nz@gmail.com) | [GitHub](https://github.com/lupanpan1030) | [LinkedIn](https://www.linkedin.com/in/ethan-chen-lu/) | [作品集](https://ethanchenlu.com)
+**应届 / 初级全栈开发者**<br>
+React · TypeScript · Next.js · FastAPI · PostgreSQL · C# · SQL · Electron<br>
+新西兰奥克兰 · [作品集](https://ethanchenlu.com/en) · [GitHub](https://github.com/lupanpan1030) · [LinkedIn](https://www.linkedin.com/in/ethan-chen-lu/) · [邮箱](mailto:ethan.clu.nz@gmail.com)<br>
+**新西兰工作权限：** Post-study work visa 正在申请中；当前学生签证允许每周最多工作 25 小时。
 
 ## 个人简介
 
-具备 4 年以上医疗信息化交付经验，方向覆盖全栈开发、AI 工作流系统、本地优先桌面工具、数据分析项目和医疗业务系统支持。已完成奥克兰大学 Master of Information Technology 课程要求，并获得 First Class Honours。
-
-## 代表项目
-
-| 项目 | 简介 | 技术 / 方向 |
-| --- | --- | --- |
-| [IdeaSense AI](https://ethanchenlu.com) | 面向早期创业评估的 AI 工作流产品，通过分阶段对话、结构化状态、评分、确认门禁和报告生成，把开放式咨询变成可复核流程。 | React、Node.js、AI 工作流设计 |
-| [Algo Platform](https://github.com/lupanpan1030/Desktop-Algorithm-Training-Platform----UoA-COMPSCI-732-group-project) | 算法练习与管理平台，覆盖 API 工作流、数据库状态、桌面/网页应用和发布打包。 | React、Node.js、Prisma、SQLite |
-| [Airline Revenue Analytics](https://github.com/lupanpan1030/airline-revenue-analytics) | 数据分析项目，重点在稳健评估、结构化数据处理和面向业务读者的结果表达。 | Python、SQL、数据分析 |
-| [Locus](https://github.com/lupanpan1030/agent-code-for-me) | 实验性本地优先开发者工具适配项目，覆盖仓库工作流、provider 设置、终端工作、本地 SQLite 状态和发布准备。 | TypeScript、Electron、SQLite |
-
-## 工作经历
-
-### 信息系统 / IT 与安全支持
-
-**古美社区卫生服务中心** - 上海，中国  
-**2018 年 7 月 - 2023 年 1 月**
-
-- 支持医疗信息系统、内部 IT 运维、临床数据流程和日常技术支持。
-- 与供应商、科室和用户协作，定位系统问题并提升业务运行可靠性。
-- 参与浏览器化迁移、IP 与资产管理、应急响应、报表、系统文档和流程整理。
-- 建立了对医疗 IT 交付的实际理解：稳定性、落地采用和沟通协作与技术实现同样重要。
+奥克兰本地应届 / 初级全栈开发者，具备 UoA MIT First Class Honours、近期 React / TypeScript / FastAPI / PostgreSQL 项目经验，以及 4 年以上医疗 IT 系统交付经验。
 
 ## 教育背景
 
-### Master of Information Technology, First Class Honours
+<p class="edu-entry"><span class="edu-main">硕士学位 | 新西兰奥克兰：<a href="https://www.auckland.ac.nz/en.html">奥克兰大学</a></span><span class="edu-date">2025 年 3 月 - 2026 年 3 月</span><br><strong>专业：</strong>Information Technology（Faculty of Science），First Class Honours<br><span class="edu-note">相关课程：COMPSCI 732 Software Tools and Techniques；COMPSCI 751 Advanced Topics in Database Systems；INFOSYS 704 IT Consultancy；INFOSYS 703 Managing with Artificial Intelligence；INFOSYS 722 Data Mining and Big Data。</span></p>
 
-**University of Auckland** - 奥克兰，新西兰  
-**已完成课程要求：2026 年 3 月**
+<p class="edu-entry"><span class="edu-main">工学学士 | 中国上海：<a href="https://global.sou.edu.cn/">上海开放大学</a></span><span class="edu-date">2018 年 9 月 - 2022 年 1 月</span><br><strong>专业：</strong>软件工程（信息服务方向）</p>
 
-### 软件工程工学学士
+<p class="edu-entry"><span class="edu-main">专科 / Diploma | 中国上海：<a href="https://www.sumhs.edu.cn/">上海健康医学院</a></span><span class="edu-date">2015 年 9 月 - 2018 年 7 月</span><br><strong>专业：</strong>卫生信息管理（医用信息方向）</p>
 
-**上海开放大学** - 上海，中国  
-**2018 - 2022**
+## 当前软件方向
 
-### 卫生信息管理专科
+| 项目 | 链接 | 简介 | 技术栈 |
+| --- | --- | --- | --- |
+| IdeaSense AI — 全栈 AI 工作流产品 | [线上](https://www.ideasenseai.com/en) | AI 工作流产品：分阶段 intake、结构化抽取、评分、SSE 流式输出、PostgreSQL 项目状态、管理审核和报告导出。 | Next.js、React、TypeScript、FastAPI、PostgreSQL、JWT、SSE、Vercel、Render |
+| Locus — 本地优先开发者工具工作区 | [GitHub](https://github.com/lupanpan1030/agent-code-for-me) | 本地优先 agent 工作台：仓库感知对话、provider 配置、运行环境检测、终端 / Git 工作流、设置体验和发布打包。 | Electron、React、TypeScript、tRPC、Drizzle、better-sqlite3、electron-builder、GitHub Releases |
 
-**上海健康医学院** - 上海，中国  
-**2015 - 2018**
+## 精选软件项目
+
+| 项目 | 链接 | 简介 | 技术栈 |
+| --- | --- | --- | --- |
+| Algo Platform — 本地算法练习桌面应用 | [GitHub](https://github.com/lupanpan1030/Desktop-Algorithm-Training-Platform----UoA-COMPSCI-732-group-project) | Electron 编程练习平台：本地 REST API、SQLite 状态、Monaco editor、多语言 Run/Submit、提交历史和 CI 校验 API 契约。 | Electron、React、Express、TSOA、Prisma、SQLite、Monaco、GitHub Actions |
+| Local Code Judge — 独立判题引擎 | [GitHub](https://github.com/lupanpan1030/local-code-judge-mini) | 从 Algo Platform 独立重写的判题引擎：子进程执行、单用例超时、进程组回收、内存采样和 stdout 输出比对。 | TypeScript、Node.js、child_process、Vitest、GitHub Actions |
+| LeetCode-CN Import Pipeline — 数据规范化 CLI | [GitHub](https://github.com/lupanpan1030/leetcode-cn-import-pipeline) | 独立 LeetCode-CN 导入管线：将本地 originData JSON 规范化为确定性的题目/报告产物，支持跳过报告、dry-run 和 strict 模式。 | TypeScript、Node.js、JSON、Vitest、GitHub Actions |
+| Aletheia Archive — 线上活动档案站点 | [线上](https://lizzietyc.com) | 线上活动档案：媒体展示、credits、响应式布局、SEO 基础和演出后内容结构。 | Next.js、TypeScript、Tailwind CSS、Cloudflare Stream |
+| Airline Revenue Analytics — 订票层级收入分析 | [GitHub](https://github.com/lupanpan1030/airline-revenue-analytics) | 订票层级收入分析：公开航空数据、特征工程、防泄漏模型对比和收入驱动因素分析。 | Python、pandas、SQLite、scikit-learn |
+
+## 专业系统经验
+
+### 信息系统专员 — 内部工具与医疗信息系统交付
+
+古美社区卫生服务中心 · 中国上海 · 2018–2023
+
+- 构建并维护医疗 IT 内部工具、数据流程和运营报表，覆盖临床、行政和基础设施相关系统。
+- 交付 C# / ASP.NET / SQL Server IP 管理工具，覆盖约 900 条 IP 记录和 500+ 资产条目，将反复发生的 IP 冲突降至接近为零。
+- 协调临床系统从 C/S 架构迁移到 B/S 架构，负责需求整理、供应商沟通、分阶段上线、接口测试，并在 3 个月试点中参与 13 次主要迭代。
 
 ## 技能
 
-- **编程语言：** TypeScript、JavaScript、Python、SQL
-- **前端：** React、Next.js、HTML、CSS、响应式界面实现
-- **后端：** Node.js、REST API、FastAPI、应用工作流设计
-- **数据：** SQLite、PostgreSQL、结构化数据处理、分析报告
-- **AI 工作流：** LLM 辅助流程、分阶段编排、复核门禁、报告生成
-- **医疗信息化：** 临床系统支持、数据流程、供应商协作、上线支持、系统文档
-- **工具：** Git、GitHub、VS Code、Postman、Docker、命令行工作流
+- **前端：** React、Next.js、TypeScript、Tailwind CSS、MUI
+- **后端：** FastAPI、Node.js、Express、REST APIs、JWT、SSE
+- **数据库：** PostgreSQL、SQLite、SQL Server、Prisma、Drizzle
+- **桌面 / 工具：** Electron、Monaco Editor、GitHub Actions、electron-builder
+- **数据 / 脚本：** Python、pandas、scikit-learn、Jupyter、Excel
+- **医疗系统：** 内部工具、系统迁移、供应商协作、数据报表、临床工作流支持
 
-## 联系方式
-
-- 邮箱：[ethanclu.nz@gmail.com](mailto:ethanclu.nz@gmail.com)
-- GitHub：[github.com/lupanpan1030](https://github.com/lupanpan1030)
-- LinkedIn：[linkedin.com/in/ethan-chen-lu](https://www.linkedin.com/in/ethan-chen-lu/)
-- 作品集：[ethanchenlu.com](https://ethanchenlu.com)
+**语言：** 中文普通话（母语）；英语（专业工作使用）<br>
+**推荐人：** 可按要求提供

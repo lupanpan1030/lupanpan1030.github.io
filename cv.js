@@ -32,6 +32,22 @@ function setActiveLanguage(language) {
   });
 }
 
+function enhanceTables(root) {
+  root.querySelectorAll("table").forEach((table) => {
+    const headers = Array.from(table.querySelectorAll("thead th")).map((header) =>
+      header.textContent.trim(),
+    );
+
+    table.querySelectorAll("tbody tr").forEach((row) => {
+      Array.from(row.children).forEach((cell, index) => {
+        if (headers[index]) {
+          cell.dataset.label = headers[index];
+        }
+      });
+    });
+  });
+}
+
 async function loadCV(language = "en") {
   const nextLanguage = CV_FILES[language] ? language : "en";
   const content = document.querySelector("#cv-content");
@@ -48,6 +64,7 @@ async function loadCV(language = "en") {
 
     const markdown = await response.text();
     content.innerHTML = marked.parse(markdown);
+    enhanceTables(content);
 
     const nextHash = nextLanguage === "zh" ? "#zh" : "#en";
     if (window.location.hash !== nextHash) {

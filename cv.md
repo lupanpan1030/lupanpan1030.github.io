@@ -1,64 +1,57 @@
 # Ethan Chen Lu
 
-**Full-stack Developer | AI Workflow Systems | Healthcare IT**  
-Auckland, New Zealand  
-[Email](mailto:ethanclu.nz@gmail.com) | [GitHub](https://github.com/lupanpan1030) | [LinkedIn](https://www.linkedin.com/in/ethan-chen-lu/) | [Portfolio](https://ethanchenlu.com)
+**Graduate / Junior Full-stack Developer**<br>
+React · TypeScript · Next.js · FastAPI · PostgreSQL · C# · SQL · Electron<br>
+Auckland, New Zealand · [Portfolio](https://ethanchenlu.com/en) · [GitHub](https://github.com/lupanpan1030) · [LinkedIn](https://www.linkedin.com/in/ethan-chen-lu/) · [Email](mailto:ethan.clu.nz@gmail.com)<br>
+**Work Rights (NZ):** Post-study work visa application in progress; current student visa permits up to 25 hours per week.
 
 ## Profile
 
-Full-stack developer and AI workflow systems builder with 4+ years of healthcare IT delivery experience. Completed the requirements for a Master of Information Technology with First Class Honours at the University of Auckland. I work across AI-assisted workflow products, local-first desktop tools, analytics projects, and operational healthcare systems.
-
-## Selected Projects
-
-| Project | Description | Stack / Focus |
-| --- | --- | --- |
-| [IdeaSense AI](https://ethanchenlu.com) | AI-assisted startup evaluation workflow using staged conversations, structured state, scoring, confirmation gates, and report generation. | React, Node.js, AI workflow design |
-| [Algo Platform](https://github.com/lupanpan1030/Desktop-Algorithm-Training-Platform----UoA-COMPSCI-732-group-project) | Desktop/web platform for algorithm practice, API-backed workflows, release packaging, and database-backed application state. | React, Node.js, Prisma, SQLite |
-| [Airline Revenue Analytics](https://github.com/lupanpan1030/airline-revenue-analytics) | Analytical project focused on conservative evaluation, structured data processing, and readable business-facing outputs. | Python, SQL, analytics |
-| [Locus](https://github.com/lupanpan1030/agent-code-for-me) | Experimental local-first developer tooling adaptation for repository workflows, provider setup, terminal work, local SQLite state, and release preparation. | TypeScript, Electron, SQLite |
-
-## Experience
-
-### Information Systems Specialist / IT & Security Support
-
-**Gumei Community Health Service Center** - Shanghai, China  
-**Jul 2018 - Jan 2023**
-
-- Supported healthcare information systems, internal IT operations, clinical data workflows, and day-to-day technical support.
-- Coordinated with vendors, departments, and users to troubleshoot system issues and improve operational reliability.
-- Assisted with browser-based migration rollout, IP and asset management, incident response, reporting, and system documentation.
-- Built a practical understanding of healthcare IT delivery where reliability, adoption, and communication matter as much as implementation.
+Auckland-based graduate full-stack developer with UoA MIT First Class Honours, recent React / TypeScript / FastAPI / PostgreSQL projects, and 4+ years of healthcare IT systems delivery experience.
 
 ## Education
 
-### Master of Information Technology, First Class Honours
+<p class="edu-entry"><span class="edu-main">Master's Degree | Auckland, New Zealand: <a href="https://www.auckland.ac.nz/en.html">University of Auckland</a></span><span class="edu-date">Mar 2025 - Mar 2026</span><br><strong>Major:</strong> Information Technology (Faculty of Science), First Class Honours<br><span class="edu-note">Relevant coursework: COMPSCI 732 Software Tools and Techniques; COMPSCI 751 Advanced Topics in Database Systems; INFOSYS 704 IT Consultancy; INFOSYS 703 Managing with Artificial Intelligence; INFOSYS 722 Data Mining and Big Data.</span></p>
 
-**University of Auckland** - Auckland, New Zealand  
-**Requirements completed: Mar 2026**
+<p class="edu-entry"><span class="edu-main">Bachelor's Degree in Engineering | Shanghai, China: <a href="https://global.sou.edu.cn/">Shanghai Open University</a></span><span class="edu-date">Sep 2018 - Jan 2022</span><br><strong>Major:</strong> Software Engineering (Information Services)</p>
 
-### Bachelor of Engineering in Software Engineering
+<p class="edu-entry"><span class="edu-main">Diploma | Shanghai, China: <a href="https://www.sumhs.edu.cn/">Shanghai University of Medicine & Health Sciences</a></span><span class="edu-date">Sep 2015 - Jul 2018</span><br><strong>Major:</strong> Health Information Management (Medical Information)</p>
 
-**Shanghai Open University** - Shanghai, China  
-**2018 - 2022**
+## Current Software Focus
 
-### Diploma in Health Information Management
+| Project | Link | Description | Tech Stack |
+| --- | --- | --- | --- |
+| IdeaSense AI — Full-stack AI Workflow Product | [Live](https://www.ideasenseai.com/en) | AI workflow product: staged intake, structured extraction, scoring, SSE streaming, PostgreSQL project state, admin review and report export. | Next.js, React, TypeScript, FastAPI, PostgreSQL, JWT, SSE, Vercel, Render |
+| Locus — Local-first Developer Tooling Workspace | [GitHub](https://github.com/lupanpan1030/agent-code-for-me) | Local-first agent workbench: repository-aware chat, provider configuration, runtime detection, terminal/git workflow, settings UX and release packaging. | Electron, React, TypeScript, tRPC, Drizzle, better-sqlite3, electron-builder, GitHub Releases |
 
-**Shanghai University of Medicine & Health Sciences** - Shanghai, China  
-**2015 - 2018**
+## Selected Software Projects
+
+| Project | Link | Description | Tech Stack |
+| --- | --- | --- | --- |
+| Algo Platform — Local Algorithm Practice Desktop App | [GitHub](https://github.com/lupanpan1030/Desktop-Algorithm-Training-Platform----UoA-COMPSCI-732-group-project) | Electron coding-practice platform: local REST API, SQLite state, Monaco editor, multi-language Run/Submit flow, submission history and CI-checked API contracts. | Electron, React, Express, TSOA, Prisma, SQLite, Monaco, GitHub Actions |
+| Local Code Judge — Standalone Judge Engine | [GitHub](https://github.com/lupanpan1030/local-code-judge-mini) | Standalone judge engine rebuilt from Algo Platform: child-process execution, per-case timeouts, process-group cleanup, memory sampling and stdout comparison. | TypeScript, Node.js, child_process, Vitest, GitHub Actions |
+| LeetCode-CN Import Pipeline — Data Normalization CLI | [GitHub](https://github.com/lupanpan1030/leetcode-cn-import-pipeline) | Standalone LeetCode-CN import pipeline: normalizes local originData JSON into deterministic problem/report artifacts with skip reporting and dry-run/strict modes. | TypeScript, Node.js, JSON, Vitest, GitHub Actions |
+| Aletheia Archive — Production Event Archive Site | [Live](https://lizzietyc.com) | Production event archive: media presentation, credits, responsive layout, SEO basics and post-event content structure. | Next.js, TypeScript, Tailwind CSS, Cloudflare Stream |
+| Airline Revenue Analytics — Booking-level Revenue Analysis | [GitHub](https://github.com/lupanpan1030/airline-revenue-analytics) | Booking-level revenue analysis: public airline data, feature engineering, leakage-controlled model comparison and revenue driver analysis. | Python, pandas, SQLite, scikit-learn |
+
+## Professional Systems Experience
+
+### Information Systems Specialist — Internal Tools & Healthcare Systems Delivery
+
+Gumei Community Health Service Center · Shanghai, China · 2018–2023
+
+- Built and maintained internal healthcare IT tools, data workflows and operational reporting across clinical, administrative and infrastructure systems.
+- Delivered a C# / ASP.NET / SQL Server IP management tool covering around 900 IP records and 500+ asset entries, reducing recurring IP conflicts to near zero.
+- Coordinated a C/S-to-B/S clinical system migration, managing requirements, vendor communication, phased rollout, interface testing and 13 major iterations over a 3-month pilot.
 
 ## Skills
 
-- **Languages:** TypeScript, JavaScript, Python, SQL
-- **Frontend:** React, Next.js, HTML, CSS, responsive UI implementation
-- **Backend:** Node.js, REST APIs, FastAPI, application workflow design
-- **Data:** SQLite, PostgreSQL, structured data processing, analytics reporting
-- **AI Workflow:** LLM-assisted workflows, staged orchestration, review gates, report generation
-- **Healthcare IT:** clinical system support, data workflows, vendor coordination, rollout support, documentation
-- **Tools:** Git, GitHub, VS Code, Postman, Docker, command-line workflows
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, MUI
+- **Backend:** FastAPI, Node.js, Express, REST APIs, JWT, SSE
+- **Databases:** PostgreSQL, SQLite, SQL Server, Prisma, Drizzle
+- **Desktop / Tooling:** Electron, Monaco Editor, GitHub Actions, electron-builder
+- **Data / Scripting:** Python, pandas, scikit-learn, Jupyter, Excel
+- **Healthcare Systems:** internal tools, system migration, vendor coordination, data reporting, clinical workflow support
 
-## Contact
-
-- Email: [ethanclu.nz@gmail.com](mailto:ethanclu.nz@gmail.com)
-- GitHub: [github.com/lupanpan1030](https://github.com/lupanpan1030)
-- LinkedIn: [linkedin.com/in/ethan-chen-lu](https://www.linkedin.com/in/ethan-chen-lu/)
-- Portfolio: [ethanchenlu.com](https://ethanchenlu.com)
+**Spoken languages:** Mandarin Chinese (native); English professional working use<br>
+**Referees:** Available upon request
